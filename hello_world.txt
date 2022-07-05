@@ -1,0 +1,3 @@
+Testing this file so I can modify 
+Then stage
+And finally commit it for my repo!
