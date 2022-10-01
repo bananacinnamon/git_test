@@ -1,0 +1,4 @@
+Testing this by adding some words to it
+So i can stage it later and commit all
+of them at once to see what will happen :)
+Ok test again
